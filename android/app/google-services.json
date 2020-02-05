@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "345445026953",
+    "firebase_url": "https://micro-scheduler-2885e.firebaseio.com",
+    "project_id": "micro-scheduler-2885e",
+    "storage_bucket": "micro-scheduler-2885e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345445026953:android:3756e3b30be7102a",
+        "android_client_info": {
+          "package_name": "com.chronic_labs.micro_scheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345445026953-r0dp5t9fk1erp9i0nltdtqqtk6qvdmog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDziSBHH_yXy_nLmQg10K3W7Mfc2GGqPQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345445026953-r0dp5t9fk1erp9i0nltdtqqtk6qvdmog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
